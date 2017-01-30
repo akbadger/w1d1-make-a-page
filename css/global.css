@@ -1,6 +1,40 @@
 body {
     background: #949396;
-    color: #FECEE9;
-    text-align: center;
-
+    font-family: 'Arsenal', sans-serif;
+    color: #DADFF7;
+    text-align: left;
+    padding-top:20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 40px;
+    border-right: 70px solid #232C33;
+    border-left: 70px solid #232C33;
 }
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+a {
+    color: #fff;
+}
+.clay-photos{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#glaze-table{
+    padding-left: 20px;
+    padding-right: 40px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+th, td {
+    border-bottom: 1px solid #DADFF7;
+}
+
